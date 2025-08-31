@@ -9,7 +9,7 @@ The code was written in the PyCharm IDE.
 
  **Code Examples:**
 - Functions 
-- Lists
+
 - Tests in 'pytest' 
-- Sum and average calculations
+
   
